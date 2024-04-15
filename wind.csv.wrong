@@ -1,16 +1,16 @@
 weather,temp,wet,wind,go
 s,h,h,n,n
 s,h,h,y,n
-c,h,h,n,y
-r,m,h,n,y
-r,m,h,n,y
+c,m,h,n,y
+r,l,h,n,y
+r,l,h,n,y
 r,l,l,y,n
 c,l,l,y,y
 s,m,h,n,n
-s,m,l,n,y
-r,m,h,n,y
-s,m,l,y,y
-c,m,h,y,y
+s,l,l,n,y
+r,l,h,n,y
+s,l,h,y,y
+c,h,h,y,y
 c,h,h,n,y
-r,m,h,y,n
+r,l,h,y,n
 
